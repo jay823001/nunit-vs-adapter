@@ -1,7 +1,7 @@
 ﻿// ****************************************************************
 // Copyright (c) 2013 NUnit Software. All rights reserved.
 // ****************************************************************
-
+// Jay
 using System.Linq;
 using Microsoft.VisualStudio.TestPlatform.ObjectModel.Logging;
 
